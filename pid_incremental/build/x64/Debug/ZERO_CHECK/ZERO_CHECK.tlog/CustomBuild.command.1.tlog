@@ -1,0 +1,10 @@
+^D:\PROJECT\C++\CTRL_CALC\PID_INCREMENTAL\BUILD\CMAKEFILES\DA9D9623D192A951B623074C28E5FCE4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Project/C++/CTRL_CALC/pid_incremental -BD:/Project/C++/CTRL_CALC/pid_incremental/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Project/C++/CTRL_CALC/pid_incremental/build/pid_incremental.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

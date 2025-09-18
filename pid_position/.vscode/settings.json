@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ctrl_pid_incremental.h": "c",
+        "ctrl_pid_position.h": "c"
+    }
+}
