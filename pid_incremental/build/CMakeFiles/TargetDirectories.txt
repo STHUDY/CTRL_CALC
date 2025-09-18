@@ -1,3 +1,0 @@
-D:/Project/C++/CTRL_CALC/pid_incremental/build/CMakeFiles/pid_incremental.dir
-D:/Project/C++/CTRL_CALC/pid_incremental/build/CMakeFiles/ALL_BUILD.dir
-D:/Project/C++/CTRL_CALC/pid_incremental/build/CMakeFiles/ZERO_CHECK.dir
